@@ -1,0 +1,6 @@
+E:\Administrator\doNet\myqmTest\myqmTest\bin\myqmTest.dll.config
+E:\Administrator\doNet\myqmTest\myqmTest\bin\myqmTest.dll
+E:\Administrator\doNet\myqmTest\myqmTest\bin\myqmTest.pdb
+E:\Administrator\doNet\myqmTest\myqmTest\obj\Release\myqmTest.dll
+E:\Administrator\doNet\myqmTest\myqmTest\obj\Release\myqmTest.pdb
+E:\Administrator\doNet\myqmTest\myqmTest\obj\Release\myqmTest.csprojResolveAssemblyReference.cache

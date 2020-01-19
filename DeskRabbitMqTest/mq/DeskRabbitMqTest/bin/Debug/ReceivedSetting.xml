@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Receiveds>
+  <Received Id="task001" ReceivedName="工作队列" Ignore="false">
+    <Namespace>RabbitMqClient</Namespace>
+    <Class>WorkQueueAction</Class>
+    <Method>Received</Method>
+  </Received>
+</Receiveds>

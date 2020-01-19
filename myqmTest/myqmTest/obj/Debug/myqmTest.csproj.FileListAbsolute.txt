@@ -1,0 +1,12 @@
+E:\Administrator\doNet\myqmTest\myqmTest\bin\myqmTest.dll.config
+E:\Administrator\doNet\myqmTest\myqmTest\bin\myqmTest.dll
+E:\Administrator\doNet\myqmTest\myqmTest\bin\myqmTest.pdb
+E:\Administrator\doNet\myqmTest\myqmTest\obj\Debug\myqmTest.dll
+E:\Administrator\doNet\myqmTest\myqmTest\obj\Debug\myqmTest.pdb
+E:\Administrator\doNet\myqmTest\myqmTest\obj\Debug\myqmTest.csprojResolveAssemblyReference.cache
+E:\Administrator\doNet\RabbitMQ\myqmTest\myqmTest\obj\Debug\myqmTest.csprojResolveAssemblyReference.cache
+E:\Administrator\doNet\RabbitMQ\myqmTest\myqmTest\obj\Debug\myqmTest.dll
+E:\Administrator\doNet\RabbitMQ\myqmTest\myqmTest\bin\myqmTest.dll.config
+E:\Administrator\doNet\RabbitMQ\myqmTest\myqmTest\bin\myqmTest.dll
+E:\Administrator\doNet\RabbitMQ\myqmTest\myqmTest\bin\myqmTest.pdb
+E:\Administrator\doNet\RabbitMQ\myqmTest\myqmTest\obj\Debug\myqmTest.pdb

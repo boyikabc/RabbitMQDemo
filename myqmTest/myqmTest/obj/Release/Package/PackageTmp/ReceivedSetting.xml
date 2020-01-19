@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Receiveds  IsTest="false">
+  <Received Id="task001" ReceivedName="工作队列" Ignore="true">
+    <Namespace>MyRabbitMq</Namespace>
+    <Class>WorkQuere</Class>
+  </Received>
+  <Received Id="task002" ReceivedName="消息订阅" Ignore="true">
+    <Namespace>MyRabbitMq</Namespace>
+    <Class>SubscribeQueue</Class>
+  </Received>
+</Receiveds>

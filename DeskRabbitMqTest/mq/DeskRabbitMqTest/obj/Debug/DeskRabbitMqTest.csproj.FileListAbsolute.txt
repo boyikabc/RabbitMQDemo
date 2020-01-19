@@ -1,0 +1,12 @@
+E:\Administrator\doNet\RabbitMQ\DeskRabbitMqTest\DeskRabbitMqTest\bin\Debug\DeskRabbitMqTest.exe.config
+E:\Administrator\doNet\RabbitMQ\DeskRabbitMqTest\DeskRabbitMqTest\bin\Debug\DeskRabbitMqTest.exe
+E:\Administrator\doNet\RabbitMQ\DeskRabbitMqTest\DeskRabbitMqTest\bin\Debug\DeskRabbitMqTest.pdb
+E:\Administrator\doNet\RabbitMQ\DeskRabbitMqTest\DeskRabbitMqTest\bin\Debug\RabbitMQ.Client.dll
+E:\Administrator\doNet\RabbitMQ\DeskRabbitMqTest\DeskRabbitMqTest\obj\Debug\DeskRabbitMqTest.Form1.resources
+E:\Administrator\doNet\RabbitMQ\DeskRabbitMqTest\DeskRabbitMqTest\obj\Debug\DeskRabbitMqTest.Properties.Resources.resources
+E:\Administrator\doNet\RabbitMQ\DeskRabbitMqTest\DeskRabbitMqTest\obj\Debug\DeskRabbitMqTest.csproj.GenerateResource.Cache
+E:\Administrator\doNet\RabbitMQ\DeskRabbitMqTest\DeskRabbitMqTest\obj\Debug\DeskRabbitMqTest.exe
+E:\Administrator\doNet\RabbitMQ\DeskRabbitMqTest\DeskRabbitMqTest\obj\Debug\DeskRabbitMqTest.pdb
+E:\Administrator\doNet\RabbitMQ\DeskRabbitMqTest\DeskRabbitMqTest\bin\Debug\LitJson.dll
+E:\Administrator\doNet\RabbitMQ\DeskRabbitMqTest\DeskRabbitMqTest\bin\Debug\log4net.dll
+E:\Administrator\doNet\RabbitMQ\DeskRabbitMqTest\DeskRabbitMqTest\bin\Debug\Newtonsoft.Json.dll

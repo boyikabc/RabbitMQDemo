@@ -1,0 +1,10 @@
+E:\Administrator\doNet\MSMqDemo\MSMqDemo\bin\Debug\MSMqDemo.exe.config
+E:\Administrator\doNet\MSMqDemo\MSMqDemo\bin\Debug\MSMqDemo.exe
+E:\Administrator\doNet\MSMqDemo\MSMqDemo\bin\Debug\MSMqDemo.pdb
+E:\Administrator\doNet\MSMqDemo\MSMqDemo\obj\Debug\MSMqDemo.exe
+E:\Administrator\doNet\MSMqDemo\MSMqDemo\obj\Debug\MSMqDemo.pdb
+E:\Administrator\doNet\MSMqDemo\MSMqDemo\bin\Debug\Newtonsoft.Json.dll
+E:\Administrator\doNet\MSMqDemo\MSMqDemo\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\Administrator\doNet\MSMqDemo\MSMqDemo\bin\Debug\RabbitMQ.Client.dll
+E:\Administrator\doNet\MSMqDemo\MSMqDemo\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+E:\Administrator\doNet\MSMqDemo\MSMqDemo\bin\Debug\RabbitMQ.Client.xml
